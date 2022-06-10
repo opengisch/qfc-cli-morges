@@ -16,6 +16,7 @@ And configure the variables in the `.env` file
 
 ```bash
 git pull
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -23,3 +24,7 @@ git pull
 ```bash
 python qfc_download.py
 ```
+
+## Documentation
+
+Detailed documentation about QFieldCloud SDK and QFieldCloud CLI is [here](https://docs.qfield.org/reference/qfieldcloud/sdk/).
